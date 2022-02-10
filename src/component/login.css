@@ -1,0 +1,22 @@
+.main{
+    display: flex;  
+}
+.main .image{
+    
+    width: 60%;
+}
+.main .form{
+    text-align: center;
+    
+    width: 40%;
+}
+.main .form h3{
+    margin-top: 40px;
+}
+.main .form h3 a{
+    margin-left: 10px;
+    font-size: 25px;
+}
+.main .ptag{
+    margin-right: 105px;
+}

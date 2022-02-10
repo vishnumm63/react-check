@@ -1,0 +1,45 @@
+.container{
+    height: 80vh;
+}
+.container .page{
+    display: flex;
+    height: 80vh;
+}
+.container .page .first{
+    background: rgb(7, 1, 117);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,0,255,1) 0%, rgba(88,101,244,1) 98%);
+    color: white;
+    width: 550px;
+    text-align: center;
+    /* margin: auto; */
+}
+.container .page .first h3{
+    padding-top: 250px;
+}
+.container .page .second{
+    padding-top: 200px;
+    padding-left: 20px;
+}
+.container .page .second .btn-size{
+    width: 450px;
+      
+}
+.container .page .second .innerbtn {
+    margin-top: 80px;
+}
+.container .page .second .innerbtn .btn-align{
+    margin-left: 320px;
+}
+.container .page .second2 {
+    padding-top: 150px;
+    padding-left: 20px;
+
+}
+.container .page .second2 .btn-sizes{
+    width: 450px;
+
+}
+.container .page .second2 .innerbtn .btn-align{
+    margin-left: 320px;
+
+}
